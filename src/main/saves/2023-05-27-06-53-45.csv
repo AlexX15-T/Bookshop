@@ -1,0 +1,11 @@
+id,title,author,year,noOfPages,price,isbn,publisher
+1,Harap Alb,Ion Creanga,1999,254,45.0,1234567890123,Litera
+2,C++,Ion Creanga,2019,100,100.0,1234567890123,Humanitas
+3,C#,Mihai Eminescu,2019,100,100.0,1234567890123,Litera
+4,Python,George Cosbuc,2019,100,10.0,1234567890123,All
+5,JavaScript,Mihai Eminescu,2019,100,10.0,1234567890123,Polirom
+7,The Adventures of Huckleberry Finn,Mark Twain,2019,100,10.0,1234567890123,Humanitas
+8,1984,George Orwell,2019,100,10.0,1234567890123,Litera
+9,Around the World in Eighty Days,Jules Verne,2019,100,10.0,1234567890123,All
+10,The Lord of the Rings,J.R.R. Tolkien,2019,100,10.0,1234567890123,Polirom
+11,newBok,Ion,1900,11,11.0,123213123,Eras
